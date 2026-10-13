@@ -1,0 +1,6 @@
+{
+  "name": "Kiosk Cetak & Imbas",
+  "description": "Kiosk Printer & Photostat Self-Service pintar dilengkapi e-wallet DuitNow, pengimbas dokumen resolusi tinggi, pratonton PDF, mod warga emas & OKU dengan panduan suara, bantuan kecemasan SOS, peringatan ubat harian, log masuk biometrik, perkongsian lokasi, dan Live AI Chatbot pembantu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
